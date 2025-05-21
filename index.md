@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Tenía que hacerlo en este archivo
+- [x] No sabía
+- [ ] Estuve mucho tiempo buscandolo
